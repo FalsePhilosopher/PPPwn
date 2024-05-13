@@ -413,7 +413,7 @@ void stage2(void) {
   load_cr0(cr0);
 
   // Send notification
-  notify("PPPwned");
+  notify("😤🍆💦");
 
   // Inject payload
   struct thread *td = curthread;
